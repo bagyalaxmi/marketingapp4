@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "Spring.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.url'"
+  },
+  {
+    "name": "Spring.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.username'"
+  },
+  {
+    "name": "Spring.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.datasource.password'"
+  },
+  {
+    "name": "Spring.jpa.hibernate.ddl",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.hibernate.ddl'"
+  },
+  {
+    "name": "Spring.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "Spring.mvc.view.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.mvc.view.prefix'"
+  },
+  {
+    "name": "Spring.mvc.view.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.mvc.view.suffix'"
+  }
+]}
